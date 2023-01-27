@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **GitHub**
-
 - 🤝 I’m looking for help with **Python**
 
 - 💬 Ask me about **Python, Arduino, Robotics**
