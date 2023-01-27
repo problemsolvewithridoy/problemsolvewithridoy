@@ -47,4 +47,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=problemsolvewithridoy&" alt="problemsolvewithridoy" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/problemsolvewithridoy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="problemsolvewithridoy" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/problemsolve"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="problemsolve" /></a></p><br><br>
