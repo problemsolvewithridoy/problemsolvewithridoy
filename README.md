@@ -3,7 +3,7 @@
 <h1 align="center">I'm Ridoy 😀</h1>
 <h3 align="center">I am a tech lover🥰 I love coding💻 and robotics🎎</h3>
 
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQFsSzD1VvtJSw/profile-displaybackgroundimage-shrink_350_1400/0/1671731075339?e=1680134400&v=beta&t=6eehUr2dXyE6lbp4GkwZC9OqF-Ut7tG6myi8iq82hUY)
+
 
 - 🔭 I’m currently working on [Problem Solve with Ridoy](https://www.facebook.com/problemsolvewithridoy/)
 
